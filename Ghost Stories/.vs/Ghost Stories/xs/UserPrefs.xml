@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{BBA5D81B-7862-FB53-E937-ACA68D65268A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/scripts/OVRInputAxis1DAction.cs">
+    <Files>
+      <File FileName="Assets/Scenes/scripts/OVRInputAxis1DAction.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ghost Stories" expanded="True">
+            <Node name="Assets" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f4aa0b43-23a4-4329-a438-0bf15fa9cf4a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
