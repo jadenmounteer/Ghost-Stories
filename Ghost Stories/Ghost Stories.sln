@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oculus.LipSync", "Oculus.Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oculus.AudioManager", "Oculus.AudioManager.csproj", "{74C55130-271C-DD2D-E8EC-0D1464C629A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{3C100818-F64A-56EA-77B8-6FB85F84365E}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oculus.AudioManager.Audio.Editor", "Oculus.AudioManager.Audio.Editor.csproj", "{66D87508-3302-5975-02D2-0FE2EF141E31}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oculus.VR.Scripts.Editor", "Oculus.VR.Scripts.Editor.csproj", "{077B2F7B-264C-C2BA-D3C0-EB4D63525298}"
@@ -26,8 +28,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oculus.LipSync.Editor", "Oculus.LipSync.Editor.csproj", "{3D4CB7CB-9B05-98F7-0736-E7CD4E49559F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oculus.AudioManager.Utils.Editor", "Oculus.AudioManager.Utils.Editor.csproj", "{B90A95EB-CF48-3C20-0474-C8C766AD1F96}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{3C100818-F64A-56EA-77B8-6FB85F84365E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,6 +59,10 @@ Global
 		{74C55130-271C-DD2D-E8EC-0D1464C629A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74C55130-271C-DD2D-E8EC-0D1464C629A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74C55130-271C-DD2D-E8EC-0D1464C629A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C100818-F64A-56EA-77B8-6FB85F84365E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C100818-F64A-56EA-77B8-6FB85F84365E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C100818-F64A-56EA-77B8-6FB85F84365E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C100818-F64A-56EA-77B8-6FB85F84365E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{66D87508-3302-5975-02D2-0FE2EF141E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{66D87508-3302-5975-02D2-0FE2EF141E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66D87508-3302-5975-02D2-0FE2EF141E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -87,10 +91,6 @@ Global
 		{B90A95EB-CF48-3C20-0474-C8C766AD1F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B90A95EB-CF48-3C20-0474-C8C766AD1F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B90A95EB-CF48-3C20-0474-C8C766AD1F96}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3C100818-F64A-56EA-77B8-6FB85F84365E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3C100818-F64A-56EA-77B8-6FB85F84365E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3C100818-F64A-56EA-77B8-6FB85F84365E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3C100818-F64A-56EA-77B8-6FB85F84365E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
